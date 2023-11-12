@@ -6,14 +6,14 @@ div{
 
 
 .title{
+    font-family: PixelifySans;
+    font-size: 80px;
+    text-shadow: -6px 2px 0 #000;
+    color:aliceblue;
+    background-color:#a9a9a9;
+    height: 100px;
     text-align: center;
-    font-family: FFF_Tusj;
-    font-size: 75px;
-    text-shadow: -3px 3px 0 #000;
-    background-color: #4682B4;
-    height: 80px;
-      }
-
+}
 
 
   
