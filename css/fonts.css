@@ -1,0 +1,25 @@
+@font-face{
+    font-family:'FFF_Tusj';
+    src: url('../fonts/FFF_Tusj.ttf') format('truetype');
+          }
+
+
+@font-face{
+    font-family:'Poppins-ExtraBold';
+    src: url('../fonts/Poppins-ExtraBold.otf') format('opentype');
+    font-style: 'bold';
+          }
+
+
+@font-face{
+    font-family:'Poppins-MediumItalic';
+    src: url('../fonts/Poppins-MediumItalic.otf') format('opentype');
+    font-style: 'italic';
+          }
+
+
+@font-face{
+    font-family:'Poppins-ThinItalic';
+    src: url('../fonts/Poppins-ThinItalic.otf') format('opentype');
+    font-style: 'italic';
+          }
