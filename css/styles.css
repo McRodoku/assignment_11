@@ -1,8 +1,12 @@
 div{
+    background-color: #FFFACD;
     text-align: center;
     font-family: Poppins-ThinItalic;
     font-size: 16px;
     margin: 2px;
+    border: 2px black solid;
+    margin-bottom: 2px;
+    padding-bottom: 2px;
     }
 
 
