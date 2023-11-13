@@ -46,4 +46,13 @@ h2{
       margin-left: auto;
       margin-right: auto;
 }
+
+
+#tie:hover {
+    background: url("../images/tie.jpg");
+    float: right;
+    display: block;
+    width: 384px;
+    height: 308px;
+}
   
