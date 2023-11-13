@@ -1,4 +1,4 @@
-div{
+div1{
     text-align: center;
     font-family: Poppins-MediumItalic;
     font-size: 18px;
@@ -7,6 +7,17 @@ div{
     margin-bottom: 2px;
     padding-bottom: 2px;
     }
+
+div2{
+    text-align: left;
+    font-family: Poppins-MediumItalic;
+    font-size: 18px;
+    background-color: #DEB887;
+    border: 2px black solid;
+    margin-bottom: 2px;
+    padding-bottom: 2px;
+    }
+
 
 
 h1{
