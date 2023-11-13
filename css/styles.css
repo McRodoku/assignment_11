@@ -48,6 +48,10 @@ h2{
 }
 
 
+#tie {
+    font-weight: 500;
+}
+
 #tie:hover {
     background: url("../images/tie.jpg");
     float: right;
@@ -55,4 +59,8 @@ h2{
     width: 384px;
     height: 308px;
 }
-  
+
+
+img{
+    padding: 10px 10px;
+}
