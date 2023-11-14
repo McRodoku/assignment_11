@@ -64,3 +64,18 @@ h2{
 img{
     padding: 10px 10px;
 }
+
+
+#oscillation{
+    font-family: Poppins-ThinItalic;
+    font-weight: 750;
+}
+
+
+#oscillation:hover:after {
+
+    content: "The movement back and forth at a regular speed, or in this case an 'unusual vibration' that occured shortly after last communication.";
+    font-weight: 400;
+    color: purple;
+    font-style: bold;
+}
