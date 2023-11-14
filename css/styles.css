@@ -54,7 +54,7 @@ h2{
 
 #tie:hover {
     background: url("../images/tie.jpg");
-    float: middle;
+    float: center;
     display: block;
     width: 384px;
     height: 308px;
