@@ -75,7 +75,7 @@ img{
 #oscillation:hover:after {
 
     content: " This is the movement back and forth at a regular speed, or in this case an 'unusual vibration' that occured shortly after last communication.";
-    font-weight: 400;
+    font-weight: 1000;
     color: purple;
     font-style: bold;
 }
